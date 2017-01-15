@@ -27,3 +27,11 @@ Also, I reindexed my days. Yesterday I was really only doing maintenance, not bu
 **Thoughts:** HTML5 has built in functions to run audio and video files! I thought I would have to write that myself. I can focus on UX/UI and adding features going forward. :)
 
 **Link to work:** https://github.com/georobGWJ/electron-mp3
+
+### Day 2: January 14, 2017
+
+**Today's Progress**: Add ability to choose among multiple songs and added volume control.
+
+**Thoughts:** Sooo... Volume control is a lot more challenging than just playing an mp3. I'll do it. 
+
+**Link to work:** https://github.com/georobGWJ/electron-mp3
