@@ -48,3 +48,12 @@ Also, I reindexed my days. Yesterday I was really only doing maintenance, not bu
 **Thoughts:** What I learned today. Managing local files using javascript can be tricky. I think that there's an easier way to do it than what I have implemented. Requiring 'fs' instead of writing XML to asynchronously access the file is probably cleaner and easier. I'm really close to MVP now though.
 
 **Link to work:** https://github.com/georobGWJ/electron-mp3
+
+### Day 4: January 16, 2017
+**Monday**
+
+**Today's Progress**: Learning day. I built several very small C++ projects to learn Visual Studio. (Hello World needs 110 lines (sans comments) to build as a Windows32 app!) I also figured out that localhost functionality might not reflect deployed functionality.
+
+**Thoughts:** What I learned today: C++ is very fast but can either: require silly amounts of code and/or memory to run. (Hello World can take 110 lines of code or 500Kb for an executable using C++). Also, things might work differently on localhost then they do when deployed.
+
+**Link to work:** https://github.com/agonzalez0515/Coco-app
