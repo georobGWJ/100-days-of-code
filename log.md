@@ -57,3 +57,14 @@ Also, I reindexed my days. Yesterday I was really only doing maintenance, not bu
 **Thoughts:** What I learned today: C++ is very fast but can either: require silly amounts of code and/or memory to run. (Hello World can take 110 lines of code or 500Kb for an executable using C++). Also, things might work differently on localhost then they do when deployed.
 
 **Link to work:** https://github.com/agonzalez0515/Coco-app
+
+### Day 5: January 16, 2017
+**Tuesday**
+
+**Today's Progress**: I replaced the async XML call to load the JSON play list file with the electron/node 'fs' component. Still having scoping issues.
+
+**Thoughts:** What I learned today. The 'fs' component is a lot cleaner to use for reading and writing files and buffers. It has built in dialogs for creating open or save file widgets. Unfortunately I'm fighting scoping. I know that I'm reading file contents but these aren't being correctly assigned to global variables like they need to be.
+
+Also, github doesn't count markdown file modifications as contributions. That's fair, it's not actual coding, but I'm a little frustrated that I spent 2 hours yesterday debugging. At the end, the issue was with localhost, so I didn't commit anything except for updating a markdown file. I want my effort to be tracked.
+
+**Link to work:** https://github.com/georobGWJ/electron-mp3
