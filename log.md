@@ -68,3 +68,14 @@ Also, I reindexed my days. Yesterday I was really only doing maintenance, not bu
 Also, github doesn't count markdown file modifications as contributions. That's fair, it's not actual coding, but I'm a little frustrated that I spent 2 hours yesterday debugging. At the end, the issue was with localhost, so I didn't commit anything except for updating a markdown file. I want my effort to be tracked.
 
 **Link to work:** https://github.com/georobGWJ/electron-mp3
+
+### Day 5: January 17, 2017
+**Wednesday**
+
+**Today's Progress**: The 'fs' component ad I was using it was still trying to load asynchronously. That's why it wasn't assigning the data to the global variable. I fixed this and added functions to add to the playlist and save the file.
+
+**Thoughts:** Honestly, I was getting genuinely angry at the code and almost said f it. Having solved the issue feels really good though and has energized me to finish up this little app. Next up I think I might start a rogue-like using C++ and the libtcod library.
+
+Also, kind of unrelated, I've decided that I need to become proficient and fast at using Vim. It's a tool that I know I will have on any computer I'll be working on and it's really snappy, even on crap hardware.
+
+**Link to work:** https://github.com/georobGWJ/electron-mp3
