@@ -31,7 +31,7 @@ Also, I reindexed my days. Yesterday I was really only doing maintenance, not bu
 
 **Link to work:** https://github.com/georobGWJ/electron-mp3
 
-### Day 2: January 14, 2017
+### Day 3: January 14, 2017
 **Saturday**
 
 **Today's Progress**: Add ability to choose among multiple songs and added volume control.
@@ -40,7 +40,7 @@ Also, I reindexed my days. Yesterday I was really only doing maintenance, not bu
 
 **Link to work:** https://github.com/georobGWJ/electron-mp3
 
-### Day 3: January 15, 2017
+### Day 4: January 15, 2017
 **Sunday**
 
 **Today's Progress**: Today I made the volume control actually work and abstracted the song selection menu. The menu is now dynamically created based on a local JSON file.
@@ -49,7 +49,7 @@ Also, I reindexed my days. Yesterday I was really only doing maintenance, not bu
 
 **Link to work:** https://github.com/georobGWJ/electron-mp3
 
-### Day 4: January 16, 2017
+### Day 5: January 16, 2017
 **Monday**
 
 **Today's Progress**: Learning day. I built several very small C++ projects to learn Visual Studio. (Hello World needs 110 lines (sans comments) to build as a Windows32 app!) I also figured out that localhost functionality might not reflect deployed functionality.
@@ -58,7 +58,7 @@ Also, I reindexed my days. Yesterday I was really only doing maintenance, not bu
 
 **Link to work:** https://github.com/agonzalez0515/Coco-app
 
-### Day 5: January 16, 2017
+### Day 6: January 17, 2017
 **Tuesday**
 
 **Today's Progress**: I replaced the async XML call to load the JSON play list file with the electron/node 'fs' component. Still having scoping issues.
@@ -69,7 +69,7 @@ Also, github doesn't count markdown file modifications as contributions. That's 
 
 **Link to work:** https://github.com/georobGWJ/electron-mp3
 
-### Day 5: January 17, 2017
+### Day 7: January 18, 2017
 **Wednesday**
 
 **Today's Progress**: The 'fs' component ad I was using it was still trying to load asynchronously. That's why it wasn't assigning the data to the global variable. I fixed this and added functions to add to the playlist and save the file.
@@ -77,5 +77,14 @@ Also, github doesn't count markdown file modifications as contributions. That's 
 **Thoughts:** Honestly, I was getting genuinely angry at the code and almost said f it. Having solved the issue feels really good though and has energized me to finish up this little app. Next up I think I might start a rogue-like using C++ and the libtcod library.
 
 Also, kind of unrelated, I've decided that I need to become proficient and fast at using Vim. It's a tool that I know I will have on any computer I'll be working on and it's really snappy, even on crap hardware.
+
+**Link to work:** https://github.com/georobGWJ/electron-mp3
+
+### Day 8: January 19, 2017
+**Thursday**
+
+**Today's Progress**: I added functionality to go to the next song in the playlist once a song ended and partially implemented the ability to delete songs from the playlist.
+
+**Thoughts:** Not many today. It's satisfying to add functionality and to continue learning JS UI. I want to get this app shiny sooner rather than later so that I can move on.
 
 **Link to work:** https://github.com/georobGWJ/electron-mp3
