@@ -88,3 +88,12 @@ Also, kind of unrelated, I've decided that I need to become proficient and fast 
 **Thoughts:** Not many today. It's satisfying to add functionality and to continue learning JS UI. I want to get this app shiny sooner rather than later so that I can move on.
 
 **Link to work:** https://github.com/georobGWJ/electron-mp3
+
+### Day nil: January 20, 2017
+**Friday**
+
+**Today's Progress**: I went to a friend's graduation celebration and party today. I got home too late and tired to code.
+
+**Thoughts:** Right now, I think that the languages that I want to focus on learning and practicing the most are C++, Python, Javascript and Clojure. That covers a broad range of programming styles and levels.
+
+**Link to work:** 
