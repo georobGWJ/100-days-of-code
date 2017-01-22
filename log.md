@@ -96,4 +96,13 @@ Also, kind of unrelated, I've decided that I need to become proficient and fast 
 
 **Thoughts:** Right now, I think that the languages that I want to focus on learning and practicing the most are C++, Python, Javascript and Clojure. That covers a broad range of programming styles and levels.
 
-**Link to work:** 
+**Link to work:**
+
+### Day 9: January 21, 2017
+**Saturday**
+
+**Today's Progress**: Worked on extending the functionality of the message boards of College Counselor by adding new tables.
+
+**Thoughts:** It's amazing how quickly info leaves your mind when you don't practice. I'm working in Rails again and needing to look up a lot more than I thought I would need to.
+
+**Link to work:** https://github.com/agonzalez0515/Coco-app
