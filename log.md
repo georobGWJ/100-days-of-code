@@ -106,3 +106,48 @@ Also, kind of unrelated, I've decided that I need to become proficient and fast 
 **Thoughts:** It's amazing how quickly info leaves your mind when you don't practice. I'm working in Rails again and needing to look up a lot more than I thought I would need to.
 
 **Link to work:** https://github.com/agonzalez0515/Coco-app
+
+### Day 10: January 22, 2017
+**Sunday**
+
+**Today's Progress**: Styling! And adding subforums.
+
+**Thoughts:** Today I added the logic and structure to define individual forums to the CoCo message board. Coding on a Southwest flight is like being a T-REX, there is NO arm space.
+
+**Link to work:** https://github.com/agonzalez0515/Coco-app
+
+### Day 11: January 23, 2017
+**Monday**
+
+**Today's Progress**: Continuing implementation of Forums and styling improvements.
+
+**Thoughts:** Fuck trump (From here on I will refer to him as Donny, as in "Shut the fuck up Donny!").
+
+**Link to work:** https://github.com/agonzalez0515/Coco-app
+
+### Day 12: January 24, 2017
+**Tuesday**
+
+**Today's Progress**: Implemented message board tags.
+
+**Thoughts:** There were two ways to implement Tags for messages. An easy way and an efficient way. Today I waffled between the two and didn't get all of the logic done.
+
+**Link to work:** https://github.com/agonzalez0515/Coco-app
+
+### Day nil: January 25, 2017
+**Wednesday**
+
+**Today's Progress**: Nada.
+
+**Thoughts:** I couldn't muster motivation today.
+
+**Link to work:**
+
+### Day 13: January 26, 2017
+**Thursday**
+
+**Today's Progress**: Finished implementing almost all Tag logic, using the more efficient way.
+
+**Thoughts:** Good day. High motivation and follow-through to finish the Tag logic. I still want to add some AJAX to make things cleaner but am close to merging this branch. :)
+
+**Link to work:** https://github.com/agonzalez0515/Coco-app
