@@ -151,3 +151,57 @@ Also, kind of unrelated, I've decided that I need to become proficient and fast 
 **Thoughts:** Good day. High motivation and follow-through to finish the Tag logic. I still want to add some AJAX to make things cleaner but am close to merging this branch. :)
 
 **Link to work:** https://github.com/agonzalez0515/Coco-app
+
+### Day 14: January 27, 2017
+**Friday**
+
+**Today's Progress**: Worked on adding AJAX to the tag buttons so that they can be upvoted.
+
+**Thoughts:** It's a little surprising how quickly you forget things. It's been a while since I used AJAX with RAILS and I coded a little slower than I would have liked to. In my defense, I'm working with new tech at work (Fortran) and have a lot on my mind.
+
+**Link to work:** https://github.com/agonzalez0515/Coco-app
+
+### Day nil: January 28, 2017
+**Saturday**
+
+**Today's Progress**: Nada.
+
+**Thoughts:** Traveled back home to Oakland from Aurora. Got engrossed with reading about how Trump is destroying our country.
+
+**Link to work:**
+
+### Day 15: January 29, 2017
+**Sunday**
+
+**Today's Progress**: Finished implementing Tag AJAX and improved styling.
+
+**Thoughts:** I had to do some old fashioned AJAX, not just using RAILS helpers. It was fun logic-ing out how to do it.
+
+**Link to work:** https://github.com/agonzalez0515/Coco-app
+
+### Day nil: January 30, 2017
+**Monday**
+
+**Today's Progress**: Today I worked on some debugging but didn't build anything new.
+
+**Thoughts:** Not a lot. I'm done adding the features I absolutely wanted. There are a few more I may add. Meeting on Friday with the team.
+
+**Link to work:** https://github.com/agonzalez0515/Coco-app
+
+### Day nil: January 31, 2017
+**Tuesday**
+
+**Today's Progress**: Nada.
+
+**Thoughts:** Stressful, long day at work.
+
+**Link to work:**
+
+### Day 16: February 1, 2017
+**Wednesday**
+
+**Today's Progress**: Returned to electron-mp3 project. Improved Play and Pause functionality. Partially implemented Delete function.
+
+**Thoughts:** It's good to take a break from a project. I can see several ways to refactor what I had done before. It might be better to try to use a sqlite3 DB instead of JSON. That would be a bit heavier resource wise but would be more flexible.
+
+**Link to work:** https://github.com/georobGWJ/electron-mp3
